@@ -50,15 +50,11 @@
 Öncelikle diziyi sıralayalım
 [0,1,2,3,4,5,6,7,8,9]
 
-  • Root=7 olarak seçtim.
-           7
-         /   \
-        5     8
-       / \     \
-      1   6     9
-     / \
-    0   3
-       / \
-      2   4
+  • Root=5 olarak seçtim.
+                     5
+                3         7
+              2  4      6   8
+             1               9
+            0
  
  
